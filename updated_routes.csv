@@ -1,0 +1,871 @@
+route_id,route_short_name,route_long_name
+route1,Box,10th District Station (6th of October) - 6th District - 6th of October (Al Souq Al Qadeem)
+route2,Tomnaya,10th District Station (6th of October) - Hossary Station
+route3,Tomnaya,10th District Station (6th of October) - Hossary Station
+route4,Box,10th District Station (6th of October) - Laylat Al Qadr Station
+route5,Tomnaya,10th District Station (6th of October) - Magda Square
+route6,Microbus,10th District Station (Nasr City) - 10th of Ramadan Station
+route7,Microbus,10th District Station (Nasr City) - 1st Settlement Station (New Cairo)
+route8,Microbus,10th District Station (Nasr City) - 7th District Station (Nasr City)
+route9,Tomnaya,10th District Station (Nasr City) - 8th District (Nasr City) - Al tabba
+route10,Microbus,10th District Station (Nasr City) - Al Shabab Entrance
+route11,Microbus,10th District Station (Nasr City) - Alf Maskan Station
+route12,Microbus,10th District Station (Nasr City) - Awwel Makram Ebeid
+route13,CTA 80,10th District Station (Nasr City) - Darrasa
+route14,CTA 80s,10th District Station (Nasr City) - Darrasa
+route15,Microbus,10th District Station (Nasr City) - Fue
+route16,Microbus,10th District Station (Nasr City) - Gas (Banks Area)
+route17,Microbus,10th District Station (Nasr City) - Hadaba Wosta (Moqattam)
+route18,Microbus,10th District Station (Nasr City) - Moneeb Station
+route19,Microbus,10th District Station (Nasr City) - Moneeb Station
+route20,Tomnaya,10th District Station (Nasr City) - New Cairo Academy
+route21,Microbus,10th District Station (Nasr City) - New Cairo Court Station
+route22,Microbus,10th District Station (Nasr City) - New Marg Station
+route23,Microbus,10th District Station (Nasr City) - New Marg Station
+route24,Microbus,10th District Station (Nasr City) - Ommal Square Station
+route25,Minibus,10th District Station (Nasr City) - Qalyoub Exit
+route26,Microbus,10th District Station (Nasr City) - Ramses Station
+route27,Microbus,10th District Station (Nasr City) - Rehab - Gate 6
+route28,Microbus,10th District Station (Nasr City) - Zahraa Madinet Nasr
+route29,Microbus,10th of Ramadan City - 10th of Ramadan Station
+route30,Microbus,10th of Ramadan City - Al Shorouq Academy Station
+route31,CTA 323,10th of Ramadan Station - Abd Al Moneim Riad Station
+route32,Microbus,10th of Ramadan Station - Ahmed Helmy Station
+route33,Microbus,10th of Ramadan Station - Al Banhawi
+route34,Minibus,10th of Ramadan Station - Al Hamd Square Station
+route35,Microbus,10th of Ramadan Station - Al Hegaz (Obour Police )
+route36,Microbus,10th of Ramadan Station - Al Sawah Square
+route37,Microbus,10th of Ramadan Station - Al Sayeda Aisha Station
+route38,Microbus,10th of Ramadan Station - Al Shorouq Academy Station
+route39,Microbus,10th of Ramadan Station - Al Shorouq Water
+route40,Microbus,10th of Ramadan Station - Alf Maskan Station
+route41,Microbus,10th of Ramadan Station - Alf Maskan Station
+route42,Minibus 106,10th of Ramadan Station - Attaba
+route43,Microbus,10th of Ramadan Station - Awwel Abbas
+route44,Minibus,10th of Ramadan Station - Awwel Al Zawya Al Hamra Station
+route45,Microbus,10th of Ramadan Station - Awwel Makram Ebeid
+route46,CTA 317,10th of Ramadan Station - Badr City
+route47,Minibus 219,10th of Ramadan Station - Bashtil
+route48,Minibus,10th of Ramadan Station - Fue
+route49,Minibus,10th of Ramadan Station - Gas (Banks Area)
+route50,Microbus,10th of Ramadan Station - Hadaba Wosta (Moqattam)
+route51,Microbus,10th of Ramadan Station - Haram & Marioteya Station
+route52,Microbus,10th of Ramadan Station - Helwan Metro
+route53,Microbus,10th of Ramadan Station - Helwan Station
+route54,Minibus,10th of Ramadan Station - Hyper 1 Station
+route55,Microbus,10th of Ramadan Station - Imbaba Station
+route56,Minibus 211,10th of Ramadan Station - Kafr Tohormos
+route57,Microbus,10th of Ramadan Station - Khanka
+route58,Microbus,10th of Ramadan Station - Khanka
+route59,Microbus,10th of Ramadan Station - Manshiyat Nasser Station
+route60,Microbus,10th of Ramadan Station - Marioteya & Ring Rd
+route61,Microbus,10th of Ramadan Station - Matareya Square Station
+route62,Microbus,10th of Ramadan Station - Moassasa Station
+route63,Microbus,10th of Ramadan Station - Moneeb Station
+route64,Microbus,10th of Ramadan Station - Mostorod Ring Rd
+route65,Tomnaya,10th of Ramadan Station - New Marg Station
+route66,Microbus,10th of Ramadan Station - Rabaah Al Adaweya Mosque
+route67,Microbus,10th of Ramadan Station - Rabaah Al Adaweya Mosque
+route68,Microbus,10th of Ramadan Station - Ramses Station
+route69,Microbus,10th of Ramadan Station - Salam Alexandria Station
+route70,Microbus,10th of Ramadan Station - Saqr Quraish Station
+route71,Microbus,10th of Ramadan Station - Shabab (Obour)
+route72,Microbus,10th of Ramadan Station - Wizarat District - New Administrative Capital
+route73,Tomnaya,11th District (6th of October) - Hossary Station
+route74,CTA 1088,15th of May - Abbasseya Station
+route75,CTA 1025,15th of May - Abd Al Moneim Riad Station
+route76,CTA 1150,15th of May - Giza Square Station
+route77,Microbus,15th of May - Helwan Metro
+route78,CTA 1001,1st Settlement Station (New Cairo) - Abd Al Moneim Riad Station
+route79,CTA 1130,1st Settlement Station (New Cairo) - Abd Al Moneim Riad Station
+route80,CTA 132,1st Settlement Station (New Cairo) - Abd Al Moneim Riad Station
+route81,Minibus 117,1st Settlement Station (New Cairo) - Abd Al Moneim Riad Station
+route82,Minibus 19,1st Settlement Station (New Cairo) - Abd Al Moneim Riad Station
+route83,Minibus 14,1st Settlement Station (New Cairo) - Abou Al Reesh
+route84,Minibus 321,1st Settlement Station (New Cairo) - Abou Wafya
+route85,CTA 1136,1st Settlement Station (New Cairo) - Al Zawya Al Hamra Station
+route86,Minibus 62,1st Settlement Station (New Cairo) - Al Zawya Al Hamra Station
+route87,Minibus 147,1st Settlement Station (New Cairo) - Amr Ibn El Aas Station
+route88,CTA 1010,1st Settlement Station (New Cairo) - Attaba
+route89,CTA 1010,1st Settlement Station (New Cairo) - Attaba
+route90,CTA 69,1st Settlement Station (New Cairo) - Attaba
+route91,CTA 1012,1st Settlement Station (New Cairo) - Bashtil
+route92,CTA 1033,1st Settlement Station (New Cairo) - Dawaran Shubra Station
+route93,Minibus 126,1st Settlement Station (New Cairo) - Dawaran Shubra Station
+route94,Minibus 159,1st Settlement Station (New Cairo) - Dawaran Shubra Station
+route95,CTA 1029,1st Settlement Station (New Cairo) - Imbaba Station
+route96,Minibus 87,1st Settlement Station (New Cairo) - Isko
+route97,Minibus 302,1st Settlement Station (New Cairo) - Mamaleek Station-Manial (Meqyas)
+route98,Minibus 108,1st Settlement Station (New Cairo) - Masaken Ain Shams Station
+route99,CTA 1019,1st Settlement Station (New Cairo) - Masaken Zeinhom Station
+route100,CTA 1078,1st Settlement Station (New Cairo) - Matbaa Station
+route101,Minibus 45,1st Settlement Station (New Cairo) - Matbaa Station
+route102,Minibus 1,1st Settlement Station (New Cairo) - Mazallat Station
+route103,Minibus 142,1st Settlement Station (New Cairo) - Mazallat Station
+route104,Minibus 304,1st Settlement Station (New Cairo) - Mazallat Station
+route105,CTA 727-1103,1st Settlement Station (New Cairo) - Moassasa Station
+route106,CTA 1161,1st Settlement Station (New Cairo) - Moneeb Station
+route107,Minibus 12,1st Settlement Station (New Cairo) - Mostorod Station
+route108,Minibus 180,1st Settlement Station (New Cairo) - Orabi Bridge
+route109,Tomnaya,1st Settlement Station (New Cairo) - Zahraa Madinet Nasr
+route110,Microbus,26th of July & Ring Rd - Moneeb Station
+route111,CTA 1137,3rd Settlement (New Cairo) - Abd Al Moneim Riad Station
+route112,CTA 1018,3rd Settlement (New Cairo) - Ahmed Helmy Station
+route113,CTA 1064,3rd Settlement (New Cairo) - Attaba
+route114,CTA 1111,3rd Settlement (New Cairo) - Moassasa Station
+route115,CTA 1,3rd Settlement (New Cairo) - New Marg Station
+route116,CTA 1122,3rd Settlement (New Cairo) - New Marg Station
+route117,CTA 1013,6th District - 6th of October (Al Souq Al Qadeem) - Abd Al Moneim Riad Station
+route118,Tomnaya,6th District - 6th of October (Al Souq Al Qadeem) - Al Motamayez Station
+route119,Box,6th District - 6th of October (Al Souq Al Qadeem) - Daewoo
+route120,CTA 1022,6th District - 6th of October (Al Souq Al Qadeem) - Giza Square Station
+route121,Microbus,6th District - 6th of October (Al Souq Al Qadeem) - Giza Square Station
+route122,Microbus,6th District - 6th of October (Al Souq Al Qadeem) - Giza Square Station
+route123,Box,6th District - 6th of October (Al Souq Al Qadeem) - Hamada Emam
+route124,Microbus,6th District - 6th of October (Al Souq Al Qadeem) - Haram & Marioteya Station
+route125,Tomnaya,6th District - 6th of October (Al Souq Al Qadeem) - Hossary Station
+route126,Microbus,6th District - 6th of October (Al Souq Al Qadeem) - Hyper 1 Station
+route127,Box,6th District - 6th of October (Al Souq Al Qadeem) - Industrial Zone 3
+route128,Tomnaya,6th District - 6th of October (Al Souq Al Qadeem) - Laylat Al Qadr Station
+route129,CTA 1017,6th District - 6th of October (Al Souq Al Qadeem) - Moassasa Station
+route130,Microbus,6th District - 6th of October (Al Souq Al Qadeem) - Moassasa Station
+route131,Microbus,6th District - 6th of October (Al Souq Al Qadeem) - Moneeb Station
+route132,Microbus,6th District - 6th of October (Al Souq Al Qadeem) - New Marg Station
+route133,Microbus,6th District - 6th of October (Al Souq Al Qadeem) - Ramses Station
+route134,Tomnaya,7th District (6th of October) - Al Mostaqbal Entrance
+route135,Tomnaya,7th District (6th of October) - Laylat Al Qadr Station
+route136,Microbus,7th District Station (Nasr City) - Abboud
+route137,Minibus 54,7th District Station (Nasr City) - Al Magzar (Mariouteya)
+route138,Microbus,7th District Station (Nasr City) - Alf Maskan Station
+route139,CTA 24g,7th District Station (Nasr City) - Darrasa
+route140,CTA 24t,7th District Station (Nasr City) - Darrasa
+route141,Microbus,7th District Station (Nasr City) - Ghamra Station
+route142,Microbus,7th District Station (Nasr City) - Hadaba Wosta (Moqattam)
+route143,Microbus,7th District Station (Nasr City) - Hadaek EL Kobba
+route144,Minibus 212,7th District Station (Nasr City) - Kafr Tohormos
+route145,Microbus,7th District Station (Nasr City) - Kolleyet Al Zeraah (Ain Shams University)
+route146,CTA 1097,7th District Station (Nasr City) - Lebanon Square Station
+route147,CTA 700-1065,7th District Station (Nasr City) - Lebanon Square Station
+route148,CTA 1053,7th District Station (Nasr City) - Masaken Al Wehda
+route149,Green G1,7th District Station (Nasr City) - Masaken Dahshour
+route150,CTA 912-1048,7th District Station (Nasr City) - Moneeb Station
+route151,Minibus 265,7th District Station (Nasr City) - New Marg Station
+route152,Microbus,7th District Station (Nasr City) - Qism El Hadayek
+route153,Microbus,7th District Station (Nasr City) - Ramses Station
+route154,Microbus,7th District Station (Nasr City) - Ramses Station
+route155,CTA 1118,7th District Station (Nasr City) - Tagneed (Al Remaya)
+route156,CTA 32,8th District (Nasr City) - Al tabba - Abd Al Moneim Riad Station
+route157,Minibus 184,8th District (Nasr City) - Al tabba - Abd Al Moneim Riad Station
+route158,CTA 59,8th District (Nasr City) - Al tabba - Ahmed Helmy Station
+route159,Minibus 380,8th District (Nasr City) - Al tabba - Al Omraneyya Al Gadida
+route160,Microbus,8th District (Nasr City) - Al tabba - Alf Maskan Station
+route161,CTA 65,8th District (Nasr City) - Al tabba - Amr Ibn El Aas Station
+route162,CTA 995,8th District (Nasr City) - Al tabba - Athar Al Naby
+route163,CTA 69ss,8th District (Nasr City) - Al tabba - Attaba
+route164,Microbus,8th District (Nasr City) - Al tabba - Awwel Makram Ebeid
+route165,CTA 1021,8th District (Nasr City) - Al tabba - Imbaba Station
+route166,Minibus 66,8th District (Nasr City) - Al tabba - Madinat Al Talaba (Imbaba)
+route167,Minibus 115,8th District (Nasr City) - Al tabba - Masaken Al Wehda
+route168,Minibus 56,8th District (Nasr City) - Al tabba - Masaken Betcho
+route169,CTA 855-1070,8th District (Nasr City) - Al tabba - Moneeb Station
+route170,Minibus 57,8th District (Nasr City) - Al tabba - Saft Al Laban
+route171,Agyad Gm4,AUC Bus Station - Lebanon Square Station
+route172,CTA 1124,AUC Bus Station - New Marg Station
+route173,CTA 2,AUC Bus Station - Qism El Hadayek
+route174,CTA 2,AUC Bus Station - Qism El Hadayek
+route175,CTA 811-1090,Abageyah - Amiriya
+route176,CTA 1144,Abageyah - Ibrahim Bek
+route177,CTA 20,Abageyah - Imbaba Station
+route178,CTA 1072,Abageyah - Masaken Al Wehda
+route179,CTA 86,Abageyah - Warraq Al Arab (Cima)
+route180,CTA 86-1135,Abageyah - Warraq Al Arab (Cima)
+route181,Microbus,Abbasseya Station - Al Sayeda Aisha Station
+route182,Microbus,Abbasseya Station - Alf Maskan Station
+route183,CTA 26t,Abbasseya Station - Amr Ibn El Aas Station
+route184,Microbus,Abbasseya Station - Awwel Makram Ebeid
+route185,CTA 370,Abbasseya Station - Badr Station (Sheikh Zayed)
+route186,CTA 532,Abbasseya Station - Basateen
+route187,CTA 914,Abbasseya Station - Dawaran Shubra Station
+route188,CTA 1106,Abbasseya Station - Hadaba Wosta (Moqattam)
+route189,Microbus,Abbasseya Station - Hadaba Wosta (Moqattam)
+route190,Microbus,Abbasseya Station - Helwan Station
+route191,CTA 204,Abbasseya Station - Khosous
+route192,CTA 1068,Abbasseya Station - Lebanon Square Station
+route193,Microbus,Abbasseya Station - Manshiyat Nasser Station
+route194,Microbus,Abbasseya Station - Manshiyat Nasser Station
+route195,Microbus,Abbasseya Station - Masaken Ain Shams Station
+route196,CTA 8T,Abbasseya Station - Masarra
+route197,Microbus,Abbasseya Station - Matareya Square Station
+route198,CTA 430,Abbasseya Station - Matbaa Station
+route199,CTA 701-1037,Abbasseya Station - Matbaa Station
+route200,Microbus,Abbasseya Station - Mazlaqan Al Deweqa
+route201,Microbus,Abbasseya Station - Megawra 3 (15th of May)
+route202,CTA 208,Abbasseya Station - Moassasa Station
+route203,CTA 666-1045,Abbasseya Station - Moneeb Station
+route204,CTA 996-1134,Abbasseya Station - Moneeb Station
+route205,CTA 922,Abbasseya Station - Saqr Quraish Station
+route206,CTA 1101,Abbasseya Station - Warraq Al Arab (Cima)
+route207,CTA 175-1125,Abbasseya Station - Warraq Al Arab (Cima)
+route208,Microbus,Abboud - Al Zawya Al Hamra Station
+route209,Microbus,Abboud - Awwel Al Zawya Al Hamra Station
+route210,Microbus,Abboud - Bulaq Al Dakrur Station
+route211,Microbus,Abboud - Helwan Metro
+route212,Microbus,Abboud - Mazallat Station
+route213,Microbus,Abboud - New Marg Station
+route214,Microbus,Abboud - Ramses Station
+route215,Microbus,Abboud - Ramses Station
+route216,Microbus,Abboud - Roxy
+route217,CTA 1062,Abd Al Moneim Riad Station - AUC Bus Station
+route218,CTA 35-1121,Abd Al Moneim Riad Station - Al Nozha Al Gadida Station (Gesr El Suez Garage)
+route219,CTA 953,Abd Al Moneim Riad Station - Al Qanatir Al Khayriyyah
+route220,Microbus,Abd Al Moneim Riad Station - Al Qanatir Al Khayriyyah
+route221,CTA 1056,Abd Al Moneim Riad Station - Al Shorouq
+route222,Microbus,Abd Al Moneim Riad Station - Al Warraq Station
+route223,Microbus,Abd Al Moneim Riad Station - Al Wehda Imbaba (Al Bohi)
+route224,CTA 38,Abd Al Moneim Riad Station - Amiriya
+route225,Microbus,Abd Al Moneim Riad Station - Arab Maadi Station
+route226,CTA 1151,Abd Al Moneim Riad Station - Asmarrat
+route227,Microbus,Abd Al Moneim Riad Station - Awwel Makram Ebeid
+route228,CTA 1047,Abd Al Moneim Riad Station - Badr Station (Sheikh Zayed)
+route229,CTA 154,Abd Al Moneim Riad Station - Basateen
+route230,CTA 356,Abd Al Moneim Riad Station - Cairo Airport Station
+route231,CTA 400-1036,Abd Al Moneim Riad Station - Cairo Airport Station
+route232,Minibus 158,Abd Al Moneim Riad Station - Cairo Airport Station
+route233,Microbus,Abd Al Moneim Riad Station - Faisal St & Ring Rd
+route234,Microbus,Abd Al Moneim Riad Station - Faisal Tawabek
+route235,CTA 1026,Abd Al Moneim Riad Station - Hadaba Wosta (Moqattam)
+route236,Minibus 3,Abd Al Moneim Riad Station - Hegaz Square
+route237,Microbus,Abd Al Moneim Riad Station - Helwan Post Office
+route238,Microbus,Abd Al Moneim Riad Station - Hossary Station
+route239,CTA 24s,Abd Al Moneim Riad Station - Ibrahim Bek
+route240,Microbus,Abd Al Moneim Riad Station - Imbaba Station
+route241,CTA 1027,Abd Al Moneim Riad Station - Isbiko Station
+route242,CTA 1081,Abd Al Moneim Riad Station - Isbiko Station
+route243,CTA 1148,Abd Al Moneim Riad Station - Isbiko Station
+route244,CTA 330,Abd Al Moneim Riad Station - Isbiko Station
+route245,CTA 724,Abd Al Moneim Riad Station - Khosous
+route246,Agyad Gm1,Abd Al Moneim Riad Station - Lotus (5th Settlement)
+route247,CTA 828,Abd Al Moneim Riad Station - Masaken Ain Shams Station
+route248,Minibus 25,Abd Al Moneim Riad Station - Masaken Al Shorouq
+route249,CTA 39-1007,Abd Al Moneim Riad Station - Masaken Almaza
+route250,CTA 130,Abd Al Moneim Riad Station - Masaken Helmeyet Al Zaitoun
+route251,Agyad Gm2,Abd Al Moneim Riad Station - Masaken Sheraton
+route252,CTA 82,Abd Al Moneim Riad Station - Masarra
+route253,Microbus,Abd Al Moneim Riad Station - Moassasa Station
+route254,CTA 124,Abd Al Moneim Riad Station - Moneeb Station
+route255,CTA 1083,Abd Al Moneim Riad Station - Obour Station
+route256,CTA 28,Abd Al Moneim Riad Station - Om Bayoumi (Mintay)
+route257,CTA 211,Abd Al Moneim Riad Station - Qalyoub
+route258,CTA 15,Abd Al Moneim Riad Station - Saft Al Laban
+route259,CTA 940s,Abd Al Moneim Riad Station - Salam Alexandria Station
+route260,CTA 160,Abd Al Moneim Riad Station - Saqr Quraish Station
+route261,CTA 900,Abd Al Moneim Riad Station - Tagneed (Al Remaya)
+route262,CTA 44s-1042,Abd Al Moneim Riad Station - Zahraa Ain Shams
+route263,Tomnaya,Abdullah El Refaey - Ezbet Al Nakhl
+route264,Microbus,Abou Al Reesh - Ahmed Maher Hospital
+route265,Minibus 116,Abou Al Reesh - Cairo Airport Station
+route266,Microbus,Abou Al Reesh - Cairo University
+route267,Microbus,Abou Al Reesh - Dar El Salam
+route268,Microbus,Abou Al Reesh - Giza Square Station
+route269,Minibus 112,Abou Al Reesh - Masaken Sheraton
+route270,Minibus 112,Abou Al Reesh - Masaken Sheraton
+route271,Tomnaya,Abou Al Reesh - Masaken Zeinhom Station
+route272,Microbus,Abou Al Reesh - Matbaa Station
+route273,Microbus,Abou El Numrus - Moneeb Station
+route274,Microbus,Abou El Numrus - Shabramant
+route275,Microbus,Abou Rawwash - Akher Faisal
+route276,Microbus,Abou Rawwash - Haram Mashaal Station
+route277,CTA 114-1060,Abou Wafya - Al Sayeda Nafeesa
+route278,CTA 77,Abou Wafya - Basateen
+route279,CTA 170,Abou Wafya - Mamaleek Station-Manial (Meqyas)
+route280,CTA 1087,Abou Wafya - Masaken Sheraton
+route281,CTA 824,Abou Wafya - Saqr Quraish Station
+route282,Minibus 120,Abou Wafya - Zahraa Madinet Nasr
+route283,Microbus,Abou Zaabal - Khanka
+route284,Minibus,Abou Zaabal - Mostorod Ring Rd
+route285,Microbus,Abou Zaabal - New Marg Station
+route286,CTA 2001,Abu Al Houl St - Moassasa Station
+route287,CTA 290,Ahmed Helmy Station - Amiriya
+route288,Microbus,Ahmed Helmy Station - Arab Maadi Station
+route289,CTA 407,Ahmed Helmy Station - Asmarrat
+route290,CTA 1023,Ahmed Helmy Station - Badr City
+route291,Microbus,Ahmed Helmy Station - Badr City
+route292,Microbus,Ahmed Helmy Station - Badr City
+route293,CTA 1020,Ahmed Helmy Station - Badr Station (Sheikh Zayed)
+route294,CTA 987,Ahmed Helmy Station - Badrasheen Station
+route295,Microbus,Ahmed Helmy Station - Bigam
+route296,CTA 366,Ahmed Helmy Station - Cairo Airport Station
+route297,CTA 366-1054,Ahmed Helmy Station - Cairo Airport Station
+route298,CTA 971-1054,Ahmed Helmy Station - Cairo Airport Station
+route299,CTA 1043s,Ahmed Helmy Station - Can Can 12th District (6th of October)
+route300,CTA 8s,Ahmed Helmy Station - Haram & Marioteya Station
+route301,CTA 982,Ahmed Helmy Station - Hawamdeyya
+route302,CTA 1024,Ahmed Helmy Station - Kattameya (Mahmoudeya)
+route303,CTA 173ss,Ahmed Helmy Station - Lebanon Square Station
+route304,CTA 406-1132,Ahmed Helmy Station - Matbaa Station
+route305,CTA 305-1104,Ahmed Helmy Station - Mazlaqan Ain Shams
+route306,Microbus,Ahmed Helmy Station - Moassasa Station
+route307,CTA 888,Ahmed Helmy Station - Moneeb Station
+route308,Microbus,Ahmed Helmy Station - Mostorod Station
+route309,CTA 999-1055,Ahmed Helmy Station - New Marg Station
+route310,Minibus 151,Ahmed Helmy Station - New Marg Station
+route311,CTA 72,Ahmed Helmy Station - Saqr Quraish Station
+route312,Minibus 82,Ahmed Helmy Station - Zahraa Madinet Nasr
+route313,Microbus,Ahmed Maher Hospital - Dar El Salam
+route314,Microbus,Ahmed Maher Hospital - Matbaa Station
+route315,Microbus,Ain Shams Metro - Al Nozha Al Gadida Station (Gesr El Suez Garage)
+route316,Microbus,Ain Shams Metro - Alf Maskan Station
+route317,Microbus,Ain Shams Metro - Masaken Ain Shams Station
+route318,Microbus,Akher Faisal - Imbaba Station
+route319,Microbus,Al Banhawi - Al Sayeda Aisha Station
+route320,Microbus,Al Banhawi - Isbiko Station
+route321,Microbus,Al Bassous - Moassasa Station
+route322,Microbus,Al Hamd Square Station - Al Sayeda Aisha Station
+route323,Tomnaya,Al Hamd Square Station - Arabella Square Station
+route324,Tomnaya,Al Hamd Square Station - Gas (Banks Area)
+route325,Tomnaya,Al Hamd Square Station - Moneeb Konayyesa
+route326,Microbus,Al Hamd Square Station - Moneeb Station
+route327,Minibus,Al Hamd Square Station - New Marg Station
+route328,Tomnaya,Al Magzar (Mariouteya) - Marioteya & Ring Rd
+route329,CTA 934-1071,Al Magzar (Mariouteya) - Masaken Al Wehda
+route330,Tomnaya,Al Magzar (Mariouteya) - Moneeb Station
+route331,CTA 342,Al Magzar (Mariouteya) - Qalaa Station
+route332,Microbus,Al Malek Al Saleh - Al Sayeda Aisha Station
+route333,Microbus,Al Malek Al Saleh - Matbaa Station
+route334,Tomnaya,Al Marg Police - Ezbet Al Nakhl
+route335,Tomnaya,Al Marg Police - New Marg Station
+route336,Tomnaya,Al Mostafa Mosque - Gas (Banks Area)
+route337,Box,Al Mostaqbal Entrance - Masaken Othman (6th of October)
+route338,Microbus,Al Motamayez Station - Laylat Al Qadr Station
+route339,Tomnaya,Al Motamayez Station - Laylat Al Qadr Station
+route340,Box,Al Muluk - Hossary Station
+route341,Microbus,Al Nozha Al Gadida Station (Gesr El Suez Garage) - Al Sa'a Square Station
+route342,Microbus,Al Nozha Al Gadida Station (Gesr El Suez Garage) - Arab Al Tawaila
+route343,CTA 318,Al Nozha Al Gadida Station (Gesr El Suez Garage) - Cairo Airport Station
+route344,Minibus 60,Al Nozha Al Gadida Station (Gesr El Suez Garage) - Dawaran Shubra Station
+route345,Minibus 4,Al Nozha Al Gadida Station (Gesr El Suez Garage) - Mamaleek Station-Manial (Meqyas)
+route346,Tomnaya,Al Nozha Al Gadida Station (Gesr El Suez Garage) - Masaken Ain Shams Station
+route347,Microbus,Al Nozha Al Gadida Station (Gesr El Suez Garage) - Masaken Sheraton
+route348,Minibus 44,Al Nozha Al Gadida Station (Gesr El Suez Garage) - Matbaa Station
+route349,Microbus,Al Nozha Al Gadida Station (Gesr El Suez Garage) - Mazlaqan Ain Shams
+route350,Tomnaya,Al Nozha Al Gadida Station (Gesr El Suez Garage) - Mazlaqan Ain Shams
+route351,Microbus,Al Nozha Al Gadida Station (Gesr El Suez Garage) - Nahda City Station
+route352,Microbus,Al Nozha Al Gadida Station (Gesr El Suez Garage) - Ramses Station
+route353,Minibus 14,Al Omraneyya Al Gadida - Al Warraq Station
+route354,Minibus 424,Al Omraneyya Al Gadida - Al Zawya Al Hamra Station
+route355,Minibus 160,Al Omraneyya Al Gadida - Amiriya
+route356,CTA 7,Al Omraneyya Al Gadida - Attaba
+route357,Minibus 78,Al Omraneyya Al Gadida - Darrasa
+route358,CTA 820,Al Omraneyya Al Gadida - Ibrahim Bek
+route359,Minibus 203,Al Omraneyya Al Gadida - Kilo 4 & Half Station
+route360,Minibus 500,Al Omraneyya Al Gadida - Koleyet Al Banat - Ain Shams University
+route361,CTA 803-1105,Al Omraneyya Al Gadida - Qism El Hadayek
+route362,CTA 810,Al Omraneyya Al Gadida - Qism El Hadayek
+route363,CTA 212,Al Qanatir Al Khayriyyah - Attaba
+route364,Microbus,Al Qanatir Al Khayriyyah - Moassasa Station
+route365,Microbus,Al Sa'a Square Station - Helmeyet El Zaitoun Metro
+route366,CTA 11,Al Sa'a Square Station - Ibrahim Bek
+route367,Microbus,Al Sa'a Square Station - Matareya Square Station
+route368,Microbus,Al Sa'a Square Station - Ramses Station
+route369,Microbus,Al Sawah Square - Roxy
+route370,Microbus,Al Sayeda Aisha Station - Znen (Awwel Al Eshreen)
+route371,Microbus,Al Sayeda Aisha Station - Attaba
+route372,Microbus,Al Sayeda Aisha Station - Awwel Abbas
+route373,Microbus,Al Sayeda Aisha Station - Awwel Faisal
+route374,Microbus,Al Sayeda Aisha Station - Awwel Makram Ebeid
+route375,Microbus,Al Sayeda Aisha Station - Basateen
+route376,Microbus,Al Sayeda Aisha Station - Darrasa
+route377,Microbus,Al Sayeda Aisha Station - Giza Square Station
+route378,Microbus,Al Sayeda Aisha Station - Hadaba Wosta (Moqattam)
+route379,Microbus,Al Sayeda Aisha Station - Haram & Marioteya Station
+route380,CTA 99,Al Sayeda Aisha Station - Imbaba Station
+route381,CTA 99ss,Al Sayeda Aisha Station - Imbaba Station
+route382,Microbus,Al Sayeda Aisha Station - Isbiko Station
+route383,Microbus,Al Sayeda Aisha Station - Kattameya (Mahmoudeya)
+route384,Microbus,Al Sayeda Aisha Station - Kattameya Church
+route385,Microbus,Al Sayeda Aisha Station - Madinat Al Bo'oth Al Eslamyya
+route386,Microbus,Al Sayeda Aisha Station - Moneeb Station
+route387,Microbus,Al Sayeda Aisha Station - Nahda City Station
+route388,Microbus,Al Sayeda Aisha Station - Ramses Station
+route389,Microbus,Al Sayeda Aisha Station - Saad Zaghloul Metro
+route390,Microbus,Al Sayeda Aisha Station - Saqr Quraish Station
+route391,Microbus,Al Sayeda Aisha Station - Saqr Quraish Station
+route392,Minibus 7,Al Sayeda Aisha Station - Zahraa Ain Shams
+route393,Tomnaya,Al Sayeda Aisha Station - Zahraa Metro
+route394,Minibus 146,Al Sayeda Nafeesa - El Warsha (Ezbet Al Nakhl)
+route395,Minibus 88,Al Sayeda Nafeesa - Isko
+route396,Minibus 89,Al Sayeda Nafeesa - Isko
+route397,Minibus 421,Al Sayeda Nafeesa - Khosous
+route398,CTA 840,Al Sayeda Nafeesa - Qism El Hadayek
+route399,Microbus,Al Sayeda Zeinab - Giza Square Station
+route400,Tomnaya,Al Shabab Entrance - Gas (Banks Area)
+route401,Tomnaya,Al Shabab Entrance - Kattameya (Mahmoudeya)
+route402,Minibus,Al Shari' Al Gadeed (Bahteem) - Bab Al Shaaria Square
+route403,Microbus,Al Shari' Al Gadeed (Bahteem) - Matareya Square Station
+route404,Minibus,Al Sheikh Mansour - Matareya Square Station
+route405,CTA 1016,Al Shorouq - Dawaran Shubra Station
+route406,Microbus,Al Shorouq Academy Station - Awwel Makram Ebeid
+route407,CTA 926-1126,Al Toub Al Ramly - Bulaq Al Dakrur Station
+route408,Minibus 13,Al Toub Al Ramly - Masaken Ain Shams Station
+route409,Microbus,Al Warraq Station - Attaba
+route410,Microbus,Al Warraq Station - Giza Square Station
+route411,Minibus,Al Warraq Station - Hyper 1 Station
+route412,Microbus,Al Warraq Station - Imbaba Station
+route413,Minibus,Al Warraq Station - Imbaba Station
+route414,Minibus 102,Al Warraq Station - Kilo 4 & Half Station
+route415,Minibus 85,Al Warraq Station - Masaken Al Shorouq
+route416,Microbus,Al Warraq Station - Moassasa Station
+route417,CTA 609,Al Warraq Station - Qalaa Station
+route418,Microbus,Al Warraq Station - Ramses Station
+route419,Minibus 201,Al Warraq Station - Tagneed (Al Remaya)
+route420,Microbus,Al Wehda Imbaba (Al Bohi) - Attaba
+route421,Microbus,Al Wehda Imbaba (Al Bohi) - Bulaq Al Dakrur Station
+route422,Microbus,Al Wehda Imbaba (Al Bohi) - Isaaf
+route423,Microbus,Al Wehda Imbaba (Al Bohi) - Kit Kat Square Station
+route424,Microbus,Al Wehda Imbaba (Al Bohi) - Ramses Station
+route425,Minibus 48,Al Zawya Al Hamra Station - Arab Maadi Station
+route426,Microbus,Al Zawya Al Hamra Station - Ghamra Station
+route427,CTA 31s,Al Zawya Al Hamra Station - Giza Square Station
+route428,Microbus,Al Zawya Al Hamra Station - Hadaek EL Kobba
+route429,Microbus,Al Zawya Al Hamra Station - Imbaba Station
+route430,Microbus,Al Zawya Al Hamra Station - Khalafawy Square
+route431,CTA 831,Al Zawya Al Hamra Station - Masaken Zeinhom Station
+route432,Microbus,Al Zawya Al Hamra Station - Mazallat Station
+route433,CTA 931,Al Zawya Al Hamra Station - Moneeb Station
+route434,Microbus,Alf Maskan Station - Al Hamd Square Station
+route435,Microbus,Alf Maskan Station - Al Nozha Al Gadida Station (Gesr El Suez Garage)
+route436,Microbus,Alf Maskan Station - Al Nozha Al Gadida Station (Gesr El Suez Garage)
+route437,Microbus,Alf Maskan Station - Al Sheikh Mansour
+route438,Microbus,Alf Maskan Station - Al Sheikh Mansour
+route439,Microbus,Alf Maskan Station - Al Shorouq Academy Station
+route440,Microbus,Alf Maskan Station - Arab Al Tawaila
+route441,Tomnaya,Alf Maskan Station - Arab Al Tawaila
+route442,Microbus,Alf Maskan Station - Awwel Makram Ebeid
+route443,Microbus,Alf Maskan Station - Fue
+route444,Microbus,Alf Maskan Station - Gas (Banks Area)
+route445,Microbus,Alf Maskan Station - Kilo 4 & Half Station
+route446,Microbus,Alf Maskan Station - Korba
+route447,Microbus,Alf Maskan Station - Masaken Ain Shams Station
+route448,Microbus,Alf Maskan Station - Matareya Square Station
+route449,Microbus,Alf Maskan Station - New Cairo Court Station
+route450,Microbus,Alf Maskan Station - Rehab - Gate 13 - 12
+route451,Microbus,Alf Maskan Station - Roxy
+route452,Microbus,Alf Maskan Station - Shabab (Obour)
+route453,CTA 573,Alf Masnaa - Moneeb Station
+route454,CTA 306,Amiriya - Giza Square Station
+route455,Microbus,Amiriya - Hadaek EL Kobba
+route456,CTA 122-1059,Amiriya - Masaken Zeinhom Station
+route457,CTA 1129,Amiriya - Moneeb Station
+route458,CTA 916,Amiriya - Moneeb Station
+route459,Minibus 8,Amiriya - Rehab - Gate 6
+route460,CTA 814,Amr Ibn El Aas Station - Bulaq Al Dakrur Station
+route461,CTA 945-1082,Amr Ibn El Aas Station - Masaken Ain Shams Station
+route462,CTA 945-1082,Amr Ibn El Aas Station - Masaken Ain Shams Station
+route463,CTA 134,Amr Ibn El Aas Station - Mazallat Station
+route464,CTA 825-1073,Amr Ibn El Aas Station - Moassasa Station
+route465,CTA 83,Amr Ibn El Aas Station - Om Bayoumi (Mintay)
+route466,CTA 83,Amr Ibn El Aas Station - Om Bayoumi (Mintay)
+route467,Microbus,Applied Arts - Cairo University - Kerdasa Station
+route468,Minibus,Applied Arts - Cairo University - Lebanon Square Station
+route469,Minibus 129,Arab Al Tawaila - Attaba
+route470,Minibus 79,Arab Al Tawaila - Basateen
+route471,Minibus 202,Arab Al Tawaila - Darrasa
+route472,Microbus,Arab Al Tawaila - Matareya Square Station
+route473,Microbus,Arab Maadi Station - Haram & Marioteya Station
+route474,Microbus,Arab Maadi Station - Maadi Metro Station
+route475,Microbus,Arab Maadi Station - Saqr Quraish Station
+route476,Tomnaya,Arabella Square Station - New Cairo Academy
+route477,Microbus,Ard El Lewaa - Barageel St
+route478,Microbus,Ard El Lewaa - Bashtil El Balad
+route479,Microbus,Ard El Lewaa - Bohooth (Al Kobri Al Khashab)
+route480,Minibus,Ard El Lewaa - Giza Square Station
+route481,Microbus,Ard El Lewaa - Imbaba Station
+route482,CTA 1142,Asmarrat - Athar Al Naby
+route483,CTA 580,Asmarrat - Manshiyat Nasser Station
+route484,Tomnaya,Asmarrat - Manshiyat Nasser Station
+route485,CTA 1128,Asmarrat - Mazallat Station
+route486,CTA 96,Athar Al Naby - Bulaq Al Dakrur Station
+route487,Minibus 310,Athar Al Naby - Khosous
+route488,CTA 104,Attaba - Bashtil
+route489,Microbus,Attaba - Bashtil
+route490,CTA 166,Attaba - Bulaq Al Dakrur Station
+route491,CTA 43,Attaba - Bus Stop 43 (Matareya)
+route492,Microbus,Attaba - Filfil Mosque (Bashtil)
+route493,Microbus,Attaba - Helwan Metro
+route494,CTA 967,Attaba - Ibrahim Bek
+route495,CTA 1004,Attaba - Isbiko Station
+route496,Microbus,Attaba - Kerdasa Station
+route497,CTA 568,Attaba - Lebanon Square Station
+route498,CTA 1009,Attaba - Masaken Betcho
+route499,CTA 41,Attaba - Masaken Othman (Ezbet El Nakhl)
+route500,Minibus 41,Attaba - Masaken Othman (Ezbet El Nakhl)
+route501,Minibus 21-255,Attaba - Masaken Sheraton
+route502,CTA 24,Attaba - Moassasa Station
+route503,CTA 1076,Attaba - Moassaset Al Zakah
+route504,CTA 106-1069,Attaba - Moneeb Station
+route505,CTA 1069,Attaba - Moneeb Station
+route506,CTA 103-1094,Attaba - Motseian
+route507,Minibus 155,Attaba - New Marg Station
+route508,CTA 1147,Attaba - Obour Station
+route509,CTA 531,Attaba - Om Bayoumi (Mintay)
+route510,CTA 992,Attaba - Om Bayoumi (Mintay)
+route511,Minibus,Attaba - Om Bayoumi (Mintay)
+route512,CTA 917,Attaba - Qalyoub
+route513,Microbus,Attaba - Ramses Station
+route514,Minibus 333,Attaba - Tagneed (Al Remaya)
+route515,CTA 250,Attaba - Warraq Al Arab (Cima)
+route516,CTA 1063,Attaba - Zahraa Ain Shams
+route517,Microbus,Awsim - Kit Kat Square Station
+route518,Microbus,Awwel Abbas - Ramses Station
+route519,Microbus,Awwel Al Zawya Al Hamra Station - Hadaek EL Kobba
+route520,Microbus,Awwel Al Zawya Al Hamra Station - Khalafawy Square
+route521,Microbus,Awwel Al Zawya Al Hamra Station - Matareya Square Station
+route522,Microbus,Awwel Al Zawya Al Hamra Station - New Marg Station
+route523,Microbus,Awwel Makram Ebeid - Ghamra Station
+route524,Microbus,Awwel Makram Ebeid - Hadaek EL Kobba
+route525,Microbus,Awwel Makram Ebeid - Haram Mashaal Station
+route526,Microbus,Awwel Makram Ebeid - Helwan Station
+route527,Microbus,Awwel Makram Ebeid - Hossary Station
+route528,Microbus,Awwel Makram Ebeid - Ramses Station
+route529,Microbus,Awwel Makram Ebeid - Saqr Quraish Station
+route530,Minibus,Bab Al Shaaria Square - Ibrahim Bek
+route531,Minibus,Bab Al Shaaria Square - Khosous
+route532,Microbus,Bab Al Shaaria Square - Ring Rd Exit to Khosous
+route533,CTA 1057,Badr City - Hadaek EL Kobba
+route534,Microbus,Badr City - Moneeb Station
+route535,Tomnaya,Badr Station (Sheikh Zayed) - Hyper 1 Station
+route536,Tomnaya,Badr Station (Sheikh Zayed) - Zayed MM Terminal
+route537,Minibus,Badrasheen Station - Giza Square Station
+route538,Microbus,Badrasheen Station - Hawamdeyya
+route539,Microbus,Badrasheen Station - Mazghuna
+route540,Microbus,Badrasheen Station - Moneeb Station
+route541,Microbus,Badrasheen Station - Saqqara
+route542,Microbus,Badrasheen Station - Tibeen
+route543,Minibus,Bahtim Square - Moassasa Station
+route544,Microbus,Barageel St - Kit Kat Square Station
+route545,Microbus,Basateen - Maadi Metro Station
+route546,Minibus 93,Basateen - Mazallat Station
+route547,CTA 17-17g-923,Basateen - Moneeb Station
+route548,CTA 815,Bashtil - Darrasa
+route549,Minibus 215,Bashtil - Masaken Ain Shams Station
+route550,Minibus 119,Bashtil - Masaken Zeinhom Station
+route551,Minibus 216,Bashtil - Saqr Quraish Station
+route552,Microbus,Bashtil El Balad - Kit Kat Square Station
+route553,Microbus,Basrawy - Mazallat Station
+route554,Minibus 26,Bigam - Masaken Al Shorouq
+route555,Minibus 28,Bigam - Masaken Sheraton
+route556,Microbus,Bigam - Moassasa Station
+route557,Microbus,Bohooth (Al Kobri Al Khashab) - Bulaq Al Dakrur Station
+route558,Microbus,Bohooth (Al Kobri Al Khashab) - Faisal St & Ring Rd
+route559,Microbus,Bohooth (Al Kobri Al Khashab) - Madinat Al Talaba (Imbaba)
+route560,CTA 1003,Bulaq Al Dakrur Station - Cairo Airport Station
+route561,CTA 186,Bulaq Al Dakrur Station - Darrasa
+route562,Microbus,Bulaq Al Dakrur Station - El Kafr (Birak Al Khiyam)
+route563,Minibus,Bulaq Al Dakrur Station - Giza Square Station
+route564,CTA 1085,Bulaq Al Dakrur Station - Hadaba Wosta (Moqattam)
+route565,Microbus,Bulaq Al Dakrur Station - Haram Areesh (Sahl Hamza)
+route566,Microbus,Bulaq Al Dakrur Station - Haram Mashaal Station
+route567,Microbus,Bulaq Al Dakrur Station - Isaaf
+route568,Minibus 121,Bulaq Al Dakrur Station - Kilo 4 & Half Station
+route569,Minibus 329,Bulaq Al Dakrur Station - Kilo 4 & Half Station
+route570,CTA 921-1133,Bulaq Al Dakrur Station - Masaken Al Wehda
+route571,Minibus 127,Bulaq Al Dakrur Station - Masaken Sheraton
+route572,Microbus,Bulaq Al Dakrur Station - Moneeb Station
+route573,Microbus,Bulaq Al Dakrur Station - Nahda City Station
+route574,Microbus,Bulaq Al Dakrur Station - Nahia
+route575,CTA 203,Bulaq Al Dakrur Station - Om Bayoumi (Mintay)
+route576,CTA 1123,Bulaq Al Dakrur Station - Qism El Hadayek
+route577,CTA 91,Bulaq Al Dakrur Station - Qism El Hadayek
+route578,Microbus,Bulaq Al Dakrur Station - Ramses Station
+route579,Minibus,Bulaq Al Dakrur Station - Ramses Station
+route580,Agyad Gm7,Bulaq Al Dakrur Station - Rehab - Gate 6
+route581,Tomnaya,CIC - Hyper 1 Station
+route582,CTA 925,Cairo Airport Station - Dawaran Shubra Station
+route583,Minibus 100,Cairo Airport Station - Lebanon Square Station
+route584,Minibus 606,Cairo Airport Station - Lebanon Square Station
+route585,CTA 1138,Cairo Airport Station - Mazallat Station
+route586,CTA 970,Cairo Airport Station - Moassasa Station
+route587,CTA 970-1051,Cairo Airport Station - Moassasa Station
+route588,CTA 530,Cairo Airport Station - Qalyoub
+route589,Microbus,Cairo University Metro - Znen (Awwel Al Eshreen)
+route590,CTA 1043,Can Can 12th District (6th of October) - Imbaba Station
+route591,Tomnaya,Carrefour - Maadi - Masaken Betcho
+route592,Tomnaya,Carrefour - Maadi - Zahraa Metro
+route593,Microbus,Dandy Mall - Hyper 1 Station
+route594,Microbus,Dandy Mall - Lebanon Square Station
+route595,Microbus,Dandy Mall - Remaya Station (New Mashaal)
+route596,Microbus,Dar El Salam - Fayda Kamel
+route597,Microbus,Dar El Salam - Giza Square Station
+route598,CTA 1117,Darrasa - Imbaba Station
+route599,CTA 190-1117,Darrasa - Imbaba Station
+route600,Minibus 80,Darrasa - Isko
+route601,CTA 3g,Darrasa - Koleyet Al Banat - Azhar University
+route602,Minibus 31,Darrasa - Masaken Othman (Ezbet El Nakhl)
+route603,CTA 915,Darrasa - Moassasa Station
+route604,Minibus 307,Dawaran Shubra Station - Kattameya (Mahmoudeya)
+route605,Minibus 47,Dawaran Shubra Station - Masaken Al Shorouq
+route606,Minibus 305,Dawaran Shubra Station - Masaken Sheraton
+route607,CTA 1005,Dawaran Shubra Station - Obour Market
+route608,Microbus,Dawaran Shubra Station - Orabi Bridge
+route609,Microbus,Dokki - Znen (Awwel Al Eshreen)
+route610,Microbus,Dolce - Laylat Al Qadr Station
+route611,Microbus,El Kafr (Birak Al Khiyam) - Nahia
+route612,Tomnaya,Ezbet Al Nakhl - New Marg Station
+route613,Tomnaya,FUE - Gas (Banks Area)
+route614,Microbus,FUE - Moneeb Station
+route615,Microbus,Faisal Tawabek - Giza Square Station
+route616,Microbus,Fayda Kamel - Giza Square Station
+route617,Microbus,Fayda Kamel - Maadi Metro Station
+route618,Microbus,Fayda Kamel - Saqr Quraish Station
+route619,Microbus,Filfil Mosque (Bashtil) - Isaaf
+route620,Microbus,Gas (Banks Area) - Haram & Marioteya Station
+route621,Microbus,Gas (Banks Area) - Helwan Station
+route622,Tomnaya,Gas (Banks Area) - Kattameya (Mahmoudeya)
+route623,Tomnaya,Gas (Banks Area) - Kattameya (Mahmoudeya)
+route624,Microbus,Gas (Banks Area) - Moneeb Station
+route625,Tomnaya,Gas (Banks Area) - Moneeb Station
+route626,Tomnaya,Gas (Banks Area) - Ommal Square Station
+route627,Microbus,Gas (Banks Area) - Ramses Station
+route628,Microbus,Gas (Banks Area) - Saqr Quraish Station
+route629,Microbus,Gas (Banks Area) - Saqr Quraish Station
+route630,Tomnaya,Gas (Banks Area) - Traffic Department (Kattameya)
+route631,Tomnaya,Gas (Banks Area) - Zahraa Metro
+route632,Microbus,Ghamra Station - Masaken Ain Shams Station
+route633,Microbus,Giza Square Station - Znen (Awwel Al Eshreen)
+route634,CTA 1108,Giza Square Station - Hadaba Wosta (Moqattam)
+route635,Tomnaya,Giza Square Station - Haram & Marioteya Station
+route636,Microbus,Giza Square Station - Haram Areesh (Sahl Hamza)
+route637,Minibus,Giza Square Station - Haram Mashaal Station
+route638,Microbus,Giza Square Station - Hawamdeyya
+route639,Microbus,Giza Square Station - Helwan Post Office
+route640,Microbus,Giza Square Station - Hossary Station
+route641,Microbus,Giza Square Station - Hossary Station
+route642,Microbus,Giza Square Station - Hyper 1 Station
+route643,Microbus,Giza Square Station - Hyper 1 Station
+route644,CTA 1028,Giza Square Station - Ibrahim Bek
+route645,Minibus,Giza Square Station - Imbaba Station
+route646,Minibus 90,Giza Square Station - Isko
+route647,Minibus 40,Giza Square Station - Kilo 4 & Half Station
+route648,Microbus,Giza Square Station - Kit Kat Square Station
+route649,Microbus,Giza Square Station - Laylat Al Qadr Station
+route650,CTA 507,Giza Square Station - Masaken Sheraton
+route651,CTA 794,Giza Square Station - Masaken Sheraton
+route652,Minibus 29,Giza Square Station - Masallah Al Gadeda Station (Matareyya)
+route653,Microbus,Giza Square Station - Matbaa Station
+route654,CTA 966-1160,Giza Square Station - Moassasa Station
+route655,CTA 1160,Giza Square Station - Moassasa Station
+route656,Microbus,Giza Square Station - Moneeb Station
+route657,Microbus,Giza Square Station - Omraneyya Station
+route658,Microbus,Giza Square Station - Ramses Station
+route659,Minibus,Giza Square Station - Remaya Square
+route660,Minibus,Giza Square Station - Tagneed (Al Remaya)
+route661,Minibus,Giza Square Station - Tagneed (Al Remaya)
+route662,Minibus 12,Giza Square Station - Tagneed (Al Remaya)
+route663,Microbus,Giza Square Station - Zahraa Metro
+route664,Microbus,Hadaba Wosta (Moqattam) - Manshiyat Nasser Station
+route665,CTA 1006,Hadaba Wosta (Moqattam) - Mazallat Station
+route666,Microbus,Hadaek EL Kobba - Matareya Square Station
+route667,Microbus,Hadaek EL Kobba - Mostorod Station
+route668,Microbus,Hadayeq Helwan - Helwan Metro
+route669,Microbus,Haram & Marioteya Station - Helwan Station
+route670,Microbus,Haram & Marioteya Station - Hossary Station
+route671,Microbus,Haram & Marioteya Station - Kerdasa Station
+route672,Microbus,Haram & Marioteya Station - Matbaa Station
+route673,Microbus,Haram & Marioteya Station - Megawra 11 (15th of May)
+route674,Microbus,Haram & Marioteya Station - Moneeb Station
+route675,Tomnaya,Haram & Marioteya Station - Moneeb Station
+route676,Microbus,Haram & Marioteya Station - Nasr St
+route677,Microbus,Haram & Marioteya Station - Saqqara Traffic Office
+route678,Microbus,Haram & Marioteya Station - Shabramant
+route679,Microbus,Haram & Marioteya Station - Zahraa Madinet Nasr
+route680,Microbus,Haram Areesh (Sahl Hamza) - Ramses Station
+route681,Microbus,Haram Mashaal Station - Hyper 1 Station
+route682,Microbus,Haram Mashaal Station - Hyper 1 Station
+route683,Microbus,Haram Mashaal Station - Laylat Al Qadr Station
+route684,Microbus,Haram Mashaal Station - Moassasa Station
+route685,Microbus,Haram Mashaal Station - Moneeb Station
+route686,Microbus,Haram Mashaal Station - Ramses Station
+route687,Microbus,Haram Talbeya - Kafr Tohormos
+route688,Microbus,Hawamdeyya - Moneeb Station
+route689,CTA 92-1050,Hegaz Square - Imbaba Station
+route690,CTA 975,Hegaz Square - Moassasa Station
+route691,Minibus 200,Hegaz Square - Tagneed (Al Remaya)
+route692,Microbus,Helmeyet El Zaitoun Metro - Kilo 4 & Half Station
+route693,Microbus,Helwan Metro - Ramses Station
+route694,Microbus,Helwan Metro - Tibeen
+route695,Microbus,Helwan Metro - Zahraa Madinet Nasr
+route696,Microbus,Helwan Post Office - Ramses Station
+route697,Microbus,Helwan Station - Hossary Station
+route698,Microbus,Helwan Station - Saqr Quraish Station
+route699,Microbus,Horia Square - Saqr Quraish Station
+route700,Microbus,Hossary Station - Imbaba Station
+route701,Tomnaya,Hossary Station - Laylat Al Qadr Station
+route702,Microbus,Hossary Station - Lebanon Square Station
+route703,Tomnaya,Hossary Station - Masaken Dahshour
+route704,Microbus,Hossary Station - Moassasa Station
+route705,Microbus,Hossary Station - Moneeb Station
+route706,Microbus,Hossary Station - New Marg Station
+route707,Microbus,Hossary Station - Ramses Station
+route708,Microbus,Hossary Station - Zahraa Madinet Nasr
+route709,Microbus,Hyper 1 Station - Lebanon Square Station
+route710,Microbus,Hyper 1 Station - Moneeb Station
+route711,Microbus,Hyper 1 Station - New Marg Station
+route712,Microbus,Hyper 1 Station - Qawmeya Arabeya
+route713,Minibus,Hyper 1 Station - Qawmeya Arabeya
+route714,Microbus,Hyper 1 Station - Ramses Station
+route715,Tomnaya,Hyper 1 Station - Sheikh Zayed General Hospital
+route716,Microbus,Hyper 1 Station - Zayed 2000
+route717,CTA 1143,Ibrahim Bek - Mamaleek Station-Manial (Meqyas)
+route718,CTA 1146,Ibrahim Bek - Masaken Sheraton
+route719,Microbus,Imbaba Station - Isaaf
+route720,CTA 1107,Imbaba Station - Kattameya (Mahmoudeya)
+route721,CTA 730,Imbaba Station - Kattameya (Mahmoudeya)
+route722,Minibus 113,Imbaba Station - Kilo 4 & Half Station
+route723,Microbus,Imbaba Station - Laylat Al Qadr Station
+route724,CTA 1031,Imbaba Station - Masaken Betcho
+route725,CTA 1031,Imbaba Station - Masaken Betcho
+route726,CTA 910,Imbaba Station - Matbaa Station
+route727,Microbus,Imbaba Station - Mazallat Station
+route728,Microbus,Imbaba Station - Moassasa Station
+route729,CTA 1-1140,Imbaba Station - Moneeb Station
+route730,CTA 1-1140,Imbaba Station - Moneeb Station
+route731,Minibus 76,Imbaba Station - Mosheer Ahmed Ismail (Sheraton)
+route732,Microbus,Imbaba Station - Nahda City Station
+route733,Microbus,Imbaba Station - Qawmeya Arabeya
+route734,Microbus,Imbaba Station - Qawmeya Arabeya
+route735,Microbus,Imbaba Station - Ramses Station
+route736,Minibus,Imbaba Station - Ramses Station
+route737,Microbus,Imbaba Station - Remaya Station (New Mashaal)
+route738,Microbus,Imbaba Station - Remaya Station (New Mashaal)
+route739,Microbus,Imbaba Station - Warraq Al Arab (Cima)
+route740,Tomnaya,Industrial Zone 3 - Laylat Al Qadr Station
+route741,CTA 1030,Isbiko Station - Moassasa Station
+route742,Microbus,Isbiko Station - Nahda City Station
+route743,Minibus 400,Isko - Laylat Al Qadr Station
+route744,Minibus 18,Isko - Masaken Al Shorouq
+route745,Minibus 259,Isko - Masaken Sheraton
+route746,Minibus 107,Isko - Matbaa Station
+route747,Minibus,Isko - Moassasa Station
+route748,CTA 1109,Jazirat Mohamed - Qalaa Station
+route749,Microbus,Kafr Al Shurafa - New Marg Station
+route750,CTA 1034,Kattameya (Mahmoudeya) - Matbaa Station
+route751,Tomnaya,Kattameya (Mahmoudeya) - New Cairo Academy
+route752,Microbus,Kerdasa Station - Nahia
+route753,Microbus,Kerdasa Station - Qasr Al Einy
+route754,Tomnaya,Kerdasa Station - Saft Al Laban
+route755,CTA 321,Khanka - New Marg Station
+route756,Microbus,Khanka - New Marg Station
+route757,Minibus 49,Kilo 4 & Half Station - Znen (Awwel Al Eshreen)
+route758,CTA 1011,Kilo 4 & Half Station - Kolleyet Al Zeraah (Cairo University)
+route759,Minibus 226,Kilo 4 & Half Station - Madinat Al Talaba (Imbaba)
+route760,Microbus,Kilo 4 & Half Station - Matareya Square Station
+route761,CTA 927,Kilo 4 & Half Station - Moassasa Station
+route762,Minibus 161,Kilo 4 & Half Station - Orabi Bridge
+route763,Minibus 162,Kilo 4 & Half Station - Orabi Bridge
+route764,Green G2,Koleyet Al Banat - Ain Shams University - Masaken Dahshour
+route765,Minibus 6,Koleyet Al Banat - Ain Shams University - Mazallat Station
+route766,CTA 67,Koleyet Al Banat - Azhar University - Masallah Al Gadeda Station (Matareyya)
+route767,CTA 555,Koleyet Al Banat - Azhar University - Moneeb Station
+route768,Microbus,Kolleyet Al Zeraah (Ain Shams University) - Masaken Al Wehda
+route769,Microbus,Kolleyet Al Zeraah (Ain Shams University) - Mostorod Station
+route770,Minibus,Kolleyet Al Zeraah (Ain Shams University) - Mostorod Station
+route771,Microbus,Kolleyet Al Zeraah (Ain Shams University) - Obour Market
+route772,Microbus,Kolleyet Al Zeraah (Ain Shams University) - Ramses Station
+route773,Microbus,Korba - Masaken Ain Shams Station
+route774,Microbus,Laylat Al Qadr Station - Lebanon Square Station
+route775,Microbus,Laylat Al Qadr Station - Moassasa Station
+route776,Microbus,Laylat Al Qadr Station - New Marg Station
+route777,Microbus,Laylat Al Qadr Station - Ramses Station
+route778,Box,Laylat Al Qadr Station - Total (6th of October)
+route779,CTA 16,Lebanon Square Station - Masaken Al Wehda
+route780,CTA 977-1084,Lebanon Square Station - Saqr Quraish Station
+route781,Microbus,Lebanon Square Station - Smart Village
+route782,Minibus 125,Lebanon Square Station - Zahraa Madinet Nasr
+route783,Minibus 167,Lebanon Square Station - Zahraa Madinet Nasr
+route784,Microbus,Maadi Metro Station - Saqr Quraish Station
+route785,CTA 409-1089,Madinat Al Solb (Al Tibeen) - Ramses Station
+route786,Microbus,Manshiyat Nasser Station - Moneeb Station
+route787,CTA 73,Manshiyat Nasser Station - Qism El Hadayek
+route788,Microbus,Manshiyat Nasser Station - Ramses Station
+route789,Microbus,Marioteya & Ring Rd - Moneeb Station
+route790,Tomnaya,Marioteya & Ring Rd - Moneeb Station
+route791,Minibus 51,Masaken Ain Shams Station - Znen (Awwel Al Eshreen)
+route792,Microbus,Masaken Ain Shams Station - Matareya Square Station
+route793,Microbus,Masaken Ain Shams Station - Matareya Square Station
+route794,CTA 1002,Masaken Ain Shams Station - Matbaa Station
+route795,CTA 990,Masaken Ain Shams Station - Motseian
+route796,CTA 990,Masaken Ain Shams Station - Motseian
+route797,Microbus,Masaken Ain Shams Station - Ramses Station
+route798,Minibus 72,Masaken Al Shorouq - Mazallat Station
+route799,CTA 1008,Masaken Al Wehda - Saqr Quraish Station
+route800,Masreya Ms4,Masaken Dahshour - Ramses Station
+route801,Tomnaya,Masaken Dahshour - Remaya Station (New Mashaal)
+route802,CTA 46,Masaken Helmeyet Al Zaitoun - Masaken Zeinhom Station
+route803,Minibus,Masaken Othman (Ezbet El Nakhl) - Matareya Square Station
+route804,Microbus,Masaken Othman (Ezbet El Nakhl) - Moassaset Al Zakah
+route805,Minibus 11,Masaken Sheraton - Mazallat Station
+route806,Minibus 55,Masaken Sheraton - Saqr Quraish Station
+route807,Microbus,Matareya Square Station - Mazallat Station
+route808,Microbus,Matareya Square Station - Mazlaqan Ain Shams
+route809,Microbus,Matareya Square Station - Mostorod Station
+route810,Microbus,Matareya Square Station - Roxy
+route811,Microbus,Mazallat Station - Mostorod Station
+route812,CTA 833,Mazallat Station - Motseian
+route813,Microbus,Mazallat Station - Orabi Bridge
+route814,Minibus,Mazallat Station - Qalyoub
+route815,Minibus,Mazallat Station - Qalyoub El Balad
+route816,CTA 1145,Mazallat Station - Tagneed (Al Remaya)
+route817,Minibus 225,Mazallat Station - Zahraa Madinet Nasr
+route818,Microbus,Mazghuna - Moneeb Station
+route819,Microbus,Mazghuna - Tibeen
+route820,Microbus,Mazlaqan Al Deweqa - Moneeb Station
+route821,Microbus,Mazlaqan Al Deweqa - Nahda City Station
+route822,Microbus,Mehwar & Alex Desert Rd - Moassasa Station
+route823,Microbus,Mehwar & Alex Desert Rd - Remaya Square
+route824,Microbus,Mehwar & Alex Desert Rd - Smart Village
+route825,Microbus,Mehwar & Alex Desert Rd - Sphinx Airport
+route826,Microbus,Moassasa Station - Mostorod Station
+route827,Microbus,Moassasa Station - Nahda City Station
+route828,Minibus,Moassasa Station - New Marg Station
+route829,CTA 1032,Moassasa Station - Obour Station
+route830,CTA 235,Moassasa Station - Qalaa Station
+route831,Minibus,Moassasa Station - Qalyoub
+route832,Microbus,Moassasa Station - Qalyoub El Balad
+route833,Minibus,Moassasa Station - Qalyoub El Balad
+route834,Microbus,Moassasa Station - Ramses Station
+route835,Minibus,Moassasa Station - Remaya Station (New Mashaal)
+route836,CTA 2002,Moassasa Station - Tagneed (Al Remaya)
+route837,Microbus,Moneeb Station - Qasr Al Einy
+route838,CTA 777-1046,Moneeb Station - Qism El Hadayek
+route839,Microbus,Moneeb Station - Ramses Station
+route840,Microbus,Moneeb Station - Remaya Square
+route841,Microbus,Moneeb Station - Remaya Station (New Mashaal)
+route842,Microbus,Moneeb Station - Shabramant
+route843,CTA 1162,Moneeb Station - Zahraa Madinet Nasr
+route844,Microbus,Moneeb Station - Zahraa Madinet Nasr
+route845,Microbus,Mostorod Ring Rd - New Marg Station
+route846,Tomnaya,Mostorod Ring Rd - New Marg Station
+route847,Microbus,Nahda City Station - Ramses Station
+route848,Minibus,New Cairo Academy - New Marg Station
+route849,Microbus,New Marg Station - Qalyoub Exit
+route850,Microbus,New Marg Station - Qalyoub Exit
+route851,Microbus,New Marg Station - Rawda Mosque (Obour)
+route852,Microbus,New Marg Station - Rehab - Gate 13 - 12
+route853,Minibus,New Marg Station - Rehab - Gate 13 - 12
+route854,Microbus,New Marg Station - Remaya Square
+route855,Microbus,New Marg Station - Remaya Station (New Mashaal)
+route856,Microbus,New Marg Station - Shabab (Obour)
+route857,Microbus,New Marg Station - Zahraa Madinet Nasr
+route858,Minibus 30,Qalaa Station - Zahraa Ain Shams
+route859,Microbus,Qasr Al Einy - Znen (Awwel Al Eshreen)
+route860,Microbus,Rabaah Al Adaweya Mosque - Saqr Quraish Station
+route861,Microbus,Ramses Station - Sharabeya
+route862,Microbus,Ramses Station - Warraq Al Arab (Cima)
+route863,Microbus,Ramses Station - Warraq Al Arab (Cima)
+route864,Microbus,Ramses Station - Warraq Al Arab (Cima)
+route865,Microbus,Rehab - Gate 13 - 12 - Zahraa Madinet Nasr
+route866,Minibus 50,Rehab - Gate 6 - Znen (Awwel Al Eshreen)
+route867,Microbus,Saqr Quraish Station - Zahraa Madinet Nasr
+route868,Metro 1,New El-Marg - Helwan
+route869,Metro 2,El-Mounib - Shubra El-Kheima
+route870,Metro 3,Adly Mansour - El-Tareek El-Daery
